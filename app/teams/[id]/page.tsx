@@ -17,7 +17,7 @@ export async function generateMetadata({ params }: { params: Promise<{ id: strin
   }
   
   return {
-    title: `${team.name} Team - DevTeam`,
+    title: `${team.name} Team - Pyan Inc.`,
     description: team.description,
   };
 }
