@@ -1,5 +1,5 @@
 # pyanprojects-web
-A landing for pyanprojects website
+A landing for pyanprojects website written in NodeJS with using Next.Js 15 & shadcn
 
 # How to use this repo:
 ~> Install nodeJS 22
